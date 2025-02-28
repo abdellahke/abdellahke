@@ -51,11 +51,11 @@ Lifelong learner passionate about web development and technology.
 
 ## Looking for Opportunities
 I'm currently seeking a **Front-End Developer** position. Feel free to reach out if you'd like to collaborate or have any opportunities!
-
+<!---
 ---
 ### **Additional Contact (Abdellah Keddar)**
 📧 Email: **uidesingerbro@gmail.com**  
-📞 WhatsApp: **+213 782181960**
+📞 WhatsApp: **+213 782181960** -->
 
 
 
