@@ -1,7 +1,7 @@
 # Abdellah Keddar - Front End Developer
 
 ## About Me
-I am a front-end developer skilled in React, Next.js, and Tailwind CSS, with experience in building platforms for marketplaces and digital products. I also share client reviews, LeetCode solutions, and portfolio content on YouTube.
+I am a front-end developer skilled in React, Next.js, and Tailwind CSS, with experience in building platforms for marketplaces and digital products. Passionate about creating seamless, high-performance user experiences.
 
 ## Skills
 - **Frontend:** React, Next.js, Tailwind CSS, Bootstrap
