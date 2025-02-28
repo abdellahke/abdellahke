@@ -11,16 +11,18 @@ I am a front-end developer skilled in React, Next.js, and Tailwind CSS, with exp
 - **Project Management:** Jira
 
 ## Experience
-### **Scrap Power - Junk Submission and Marketplace Platform** @Hleper Zone (Remote) (09/2024 - Present)
-- Developed responsive web interfaces for user and dealer accounts using React, Next.js, and TailwindCSS.
-<!--- - Integrated Redux and RTK Query to manage application state, enabling real-time updates for user submissions, offers, and marketplace items. -->
-<!--- - Implemented payment solutions using Paymob for secure and efficient user-dealer transactions. -->
-<!--- - Collaborated with back-end (.Net) teams to ensure seamless communication through APIs and enhanced user experience. -->
-- Worked on in-app messaging, real-time notifications, and advanced search features for both users and dealers.
-- Used Git for version control and effective team collaboration, ensuring smooth development and release cycles.
+
+### **Task Management App**
+- Tech Stack: React, Next.js, Tailwind CSS, Firebase/Supabase
+- ✅ Features: AI-prioritized tasks, quick-add functionality, Focus Mode with a timer, and real-time sync.
+(Aligns well with your productivity app project!)
+
+### **AI-Powered CopyCoder**
+- Tech Stack: Next.js, Tailwind CSS, OpenAI API
+- ✅ Features: AI-generated code snippets based on user prompts, syntax highlighting, and customization options.
 
 ## Projects
-### **E-Commerce Platform – Scalable Online Marketplace**
+### **E-Commerce Platform – Scalable Online Marketplace Amazoner**
 Developed a full-featured e-commerce platform for buying and selling products, offering a seamless shopping experience with React.js, Next.js, and Tailwind CSS.
 This platform combines marketplace functionality with a unique, user-friendly design, making online shopping smooth and efficient.
 - Product Management: Integrated Strapi CMS for dynamic product listings and Cloudinary for optimized media uploads.
