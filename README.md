@@ -28,8 +28,14 @@ I am a front-end developer skilled in React, Next.js, and Tailwind CSS, with exp
 - Developed backend API integrations for efficient data management and user interaction.
 
 ## Education
-**Modern Academy For Engineering And Technology**  
-GPA: 2.8 - Expected Graduation: 2025
+**Self-Taught Developer | High School Dropout**  
+Lifelong learner passionate about web development and technology.
+
+## FreeCodeCamp Certifications:
+**Responsive Web Design (CSS)**
+**JavaScript Algorithms and Data Structures**
+**Front End Development Libraries**
+
 
 ## Contact
 📞 WhatsApp: **+213 782181960**  
