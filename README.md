@@ -20,12 +20,15 @@ I am a front-end developer skilled in React, Next.js, and Tailwind CSS, with exp
 - Used Git for version control and effective team collaboration, ensuring smooth development and release cycles.
 
 ## Projects
-### **E-Learning Platform - Digital Products and Courses Platform**
-- Built a platform for selling digital products and e-learning courses, providing a seamless user experience with React.js, Next.js, and Tailwind CSS.
-- Integrated with Strapi for content management and Cloudinary for handling media uploads.
-- Enabled secure payment processing using Stripe, allowing users to purchase products after sign-in.
-- Implemented email notifications using Resend for updates on purchases and account activity.
-- Developed backend API integrations for efficient data management and user interaction.
+### **E-Commerce Platform – Scalable Online Marketplace**
+Developed a full-featured e-commerce platform for buying and selling products, offering a seamless shopping experience with React.js, Next.js, and Tailwind CSS.
+This platform combines marketplace functionality with a unique, user-friendly design, making online shopping smooth and efficient.
+- Product Management: Integrated Strapi CMS for dynamic product listings and Cloudinary for optimized media uploads.
+- Secure Payments: Implemented Stripe for smooth transactions, ensuring a secure checkout process.
+- User Accounts & Authentication: Enabled user sign-in, order tracking, and personalized recommendations.
+- Order & Shipping System: Developed backend APIs to handle orders efficiently with real-time order status updates.
+- Email Notifications: Used Resend for automated emails on purchases, shipping updates, and promotions.
+- Optimized Performance: Built with server-side rendering (SSR) in Next.js for better SEO and fast load times.
 
 ## Education
 **Self-Taught Developer | High School Dropout**  
